@@ -4,7 +4,7 @@
 - <h2>Default Account for Administrator</h2>
 - <p>Email: administrator@mail.com</p>
 - <p>Password: admin123</p>
-#
+<hr>
 1. Clone the repository by typing in your terminal:
 
 -   git clone https://github.com/juswaa101/PhrasioAI.git
