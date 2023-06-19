@@ -1,5 +1,10 @@
 # How to install the project
 
+# Admin Account
+- <h2>Default Account for Administrator</h2>
+- <p>Email: administrator@mail.com</p>
+- <p>Password: admin123</p>
+#
 1. Clone the repository by typing in your terminal:
 
 -   git clone https://github.com/juswaa101/PhrasioAI.git
@@ -25,6 +30,8 @@
 9. Run npm install to install npm dependencies in the project and wait for it to finish.
 
 10. After installing both composer and npm, run the project by typing php artisan serve and npm run dev.
+
+11. Run php artisan migrate --seed (it has some seeded data for your testing) together with admin account. 
 
 11. Open browser and type localhost:8000
 
